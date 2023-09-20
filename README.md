@@ -286,10 +286,7 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
@@ -300,11 +297,6 @@ mindmap
 
 </div>
 
-
-
-
-
-[我的Debug](https://www.zhihu.com/people/r5u8pb)——————————————————————————————————————————————————————————————————————————————————————————————
 
 
 
