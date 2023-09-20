@@ -1,6 +1,6 @@
 # hello
 [我的CSDN](https://blog.csdn.net/weixin_44659309?spm=1000.2115.3001.5343)
-[我的知乎](https://www.zhihu.com/people/r5u8pb)
+[我的Debug](https://www.zhihu.com/people/r5u8pb)
 
 
 <div align="center">
@@ -299,6 +299,17 @@ mindmap
 </table>
 
 </div>
+
+
+
+
+
+[我的Debug](https://www.zhihu.com/people/r5u8pb)——————————————————————————————————————————————————————————————————————————————————————————————
+
+
+
+
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
